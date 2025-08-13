@@ -99,7 +99,7 @@ img {
 
 /* banner-sec */
 .banner-sec {
-/*     background: url(../images/banner-bg-img.png); */
+    background: url(../images/banner-bg-img.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -604,3 +604,4 @@ textarea {
    
 
  } */
+
