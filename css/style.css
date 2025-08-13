@@ -99,7 +99,7 @@ img {
 
 /* banner-sec */
 .banner-sec {
-    background: url(../images/banner-bg-img.png);
+/*     background: url(../images/banner-bg-img.png); */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -602,4 +602,5 @@ textarea {
 }
     /* @media (min-width: 768px) and (max-width: 1199.98px) { 
    
+
  } */
